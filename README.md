@@ -59,3 +59,13 @@ There are four buttons on the tweet page - be careful not to click on them for n
 In this screen you can see the amount of trolls and likes you have (note that from a certain number of trolls you will not be able to tweet anymore).
 
 **Note:bangbang:** Each new tweet will alert you with sound! In order to mute the alerts you will need to do this manually from this screen.
+
+![](https://github.com/itsikshteinberger/the-underground/blob/master/FinalProject/app/src/main/res/drawable/7f49a910-edea-4175-aebd-2cbc97d94b8c.jpg)
+
+>My account, as a professional troll:blush:
+
+##
+
+Now that we are done, you are ready to use the app. <br></br>
+And remember: suffering together, it's better.  <br></br>
+The app participated in the BMDC 2021 hackathon.
