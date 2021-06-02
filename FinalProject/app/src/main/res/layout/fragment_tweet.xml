@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".TweetFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+
+        <!-- TODO: Update blank fragment layout -->
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:layout_gravity="center"
+        android:columnCount="2"
+
+        android:rowCount="2">
+
+        <ImageButton
+            android:id="@+id/food"
+            android:layout_width="100dp"
+            android:layout_height="148dp"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:layout_marginLeft="20sp"
+            android:layout_marginTop="65sp"
+            android:layout_marginRight="10sp"
+            android:layout_marginBottom="25sp"
+            android:background="@drawable/custom_round"
+            android:padding="5dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/food"
+            android:text="Gross"
+
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="#02354C"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:backgroundTint="#7E0690B3"
+            app:cornerRadius="50px" />
+
+
+        <ImageButton
+            android:id="@+id/gross"
+            android:layout_width="86dp"
+            android:layout_height="107dp"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:layout_marginLeft="15sp"
+            android:layout_marginTop="65sp"
+            android:layout_marginRight="15sp"
+            android:layout_marginBottom="25sp"
+            android:background="@drawable/custom_round"
+            android:padding="5dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/gross"
+            android:text="Gross"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="#02354C"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:backgroundTint="#7E0690B3"
+            app:cornerRadius="300px" />
+
+        <ImageButton
+            android:id="@+id/bloch"
+            android:layout_width="29dp"
+            android:layout_height="106dp"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:layout_marginLeft="20sp"
+            android:layout_marginTop="0sp"
+            android:layout_marginRight="15sp"
+
+            android:layout_marginBottom="90sp"
+            android:background="@drawable/custom_round"
+
+            android:padding="5dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/bloch"
+            android:text="Bloch"
+            android:textAllCaps="false"
+            android:textColor="#02354C"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:backgroundTint="#7E0690B3"
+            app:cornerRadius="50px" />
+
+        <ImageButton
+            android:id="@+id/rishum"
+            style="@android:style/Widget.DeviceDefault.ImageButton"
+            android:layout_width="99dp"
+            android:layout_height="146dp"
+            android:layout_row="0"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:layout_marginLeft="15sp"
+            android:layout_marginTop="0sp"
+
+            android:layout_marginRight="15sp"
+            android:layout_marginBottom="90sp"
+            android:background="@drawable/custom_round"
+
+            android:cropToPadding="false"
+            android:padding="5dp"
+
+            android:scaleType="centerInside"
+            android:src="@drawable/rishum"
+            android:text="Rishum"
+            android:textAllCaps="false"
+            android:textColor="#02354C"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:backgroundTint="#7E0690B3"
+            app:cornerRadius="200px" />
+    </GridLayout>
+
+    </FrameLayout>

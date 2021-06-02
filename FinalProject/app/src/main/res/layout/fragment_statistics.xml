@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/statistic"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:paddingTop="10dp"
+    tools:context=".StatisticsFragment">
+
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:padding="7dp"
+                android:id="@+id/logout"
+                android:layout_width="56dp"
+                android:layout_height="62dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:background="#00000000"
+                android:scaleType="centerInside"
+                android:src="@drawable/logout"
+                android:text="Log out" />
+
+            <TextView
+                android:id="@+id/theName"
+                android:layout_width="281dp"
+                android:layout_height="62dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp"
+                android:autoSizeTextType="uniform"
+                android:fontFamily="@font/thanksbanny"
+                android:gravity="center_vertical"
+                android:text="TextView"
+                android:textColor="#302F35"
+
+                android:textSize="25sp"
+                android:textStyle="normal"
+                tools:ignore="InvalidId" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                >
+
+                <TextView
+                    android:textColor="#A93D3E3E"
+                    android:id="@+id/textView4"
+                    android:layout_width="72dp"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/thanksbanny"
+                    android:text="Likes"
+                    android:textSize="24sp" />
+
+                <ImageView
+                    android:id="@+id/imageView"
+                    android:layout_width="37dp"
+                    android:layout_height="25dp"
+                    android:src="@drawable/ic_like_after_click_24"
+                    android:layout_marginLeft="7dp"/>
+
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/numberLikes"
+                android:layout_width="52dp"
+                android:layout_height="62dp"
+                android:ems="10"
+                android:fontFamily="@font/thanksbanny"
+                android:inputType="number"
+                android:textColor="#34BF3A"
+                android:textSize="36sp" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp">
+
+                <TextView
+                    android:textColor="#A93D3E3E"
+
+                    android:id="@+id/textView3"
+                    android:layout_width="65dp"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/thanksbanny"
+                    android:text="Trolls"
+                    android:textSize="24sp" />
+
+                <ImageView
+
+                    android:layout_width="37dp"
+                    android:layout_height="25dp"
+                    android:layout_marginLeft="12dp"
+                    android:src="@drawable/ic_dislike_after_click_24" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/numberTrolls"
+                android:layout_width="77dp"
+                android:layout_height="62dp"
+                android:ems="10"
+                android:fontFamily="@font/thanksbanny"
+                android:inputType="number"
+                android:textColor="#DD0000"
+                android:textSize="36sp"
+                android:layout_marginLeft="12dp"
+                />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+    <!--    <com.github.mikephil.charting.charts.LineChart-->
+    <!--        android:id="@+id/graphLine"-->
+    <!--        android:layout_width="355dp"-->
+    <!--        android:layout_height="478dp"-->
+    <!--        android:layout_marginLeft="13dp"-->
+    <!--        android:layout_marginTop="170dp"-->
+    <!--        />-->
+
+
+
+
+
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="155dp"
+        android:background="@android:color/black" />
+
+    <TextView
+        android:id="@+id/muteText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mute special notifications"
+        android:layout_gravity="bottom"
+        android:layout_marginLeft="100dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginBottom="76dp"/>
+
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="70dp"
+        android:layout_marginLeft="280dp"
+        android:id="@+id/notifications_switch"
+
+        />
+
+    <ImageButton
+        android:id="@+id/emailBtn"
+        android:layout_width="85dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="215dp"
+        android:adjustViewBounds="true"
+        android:background="#00000000"
+        android:fontFamily="@font/antoniobold"
+        android:gravity="center"
+        android:padding="5dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/gmail"
+        android:text="Contact Us"
+        android:textSize="27dp"
+
+
+        />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="359dp"
+        android:layout_gravity="center"
+        android:fontFamily="@font/antoniobold"
+        android:gravity="center"
+        android:paddingTop="3dp"
+        android:paddingBottom="3dp"
+        android:text="Our team:\n\n
+🦸‍♂:️️ Itzik Shteinberger \n\n
+👨‍🎨: Chaim Shwartz \n\n
+👨‍💻: Daniel Chait \n\n
+👨‍🔧: Elia Tzanani"
+        android:textColor="@color/black"
+        android:textSize="23dp"
+        android:textStyle="bold" />
+
+
+
+
+    <!--    <TextView-->
+    <!--        android:id="@+id/textView5"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginTop="167dp"-->
+    <!--        android:background="@drawable/custom_round2"-->
+    <!--        android:layout_marginLeft="5dp"-->
+    <!--        android:backgroundTint="#85E6EF"-->
+    <!--        android:text="Days"-->
+    <!--        android:textSize="10sp" />-->
+
+
+</FrameLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FFA407</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightblue">#0080ff</color>
+    <color name="lightgray">#D51167B3</color>
+    <color name="darkgreen">#003366</color>
+    <color name="like">#185adb</color>
+    <color name="dislike">#be0000</color>
+    <color name="tweetbackground">#6110B2FA</color>
+    <color name="tweetbackground2">#8DA2E2FF</color>
+    <color name="gray">#A9838C8F</color>
+</resources>

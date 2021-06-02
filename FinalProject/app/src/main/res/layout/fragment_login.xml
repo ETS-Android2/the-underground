@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+
+        android:layout_width="225dp"
+        android:layout_height="285dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+
+        app:layout_constraintVertical_bias="0.408">
+
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20sp"
+            android:fontFamily="@font/thanksbanny"
+            android:text="Shhhhh!"
+            android:textAlignment="center"
+            android:textColor="@color/darkgreen"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:textDirection="ltr"
+            android:id="@+id/Userid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10sp"
+            android:layout_marginBottom="10sp"
+            android:ems="10"
+            android:hint="Id number"
+
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_marginTop="10sp"
+            android:layout_marginBottom="10sp"
+            android:ems="10"
+            android:hint="Password"
+            android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/Submit"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="10sp"
+            android:layout_marginBottom="10sp"
+
+            android:text="Sign in" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
