@@ -49,11 +49,11 @@ There are four buttons on the tweet page - be careful not to click on them for n
 - Button with food icon - report that food has arrived (you can also rate the food and describe the food)
 - Button with check list icon - report rollcall.
 
-<br></br>
+
 <img src="https://github.com/itsikshteinberger/the-underground/blob/master/FinalProject/app/src/main/res/drawable/7f56fd4a-b60c-4493-9855-c85180d7f021.jpg" alt="alt text" width="300" height="390">
 
 >Tweets buttons
-
+<br></br>
 **Account button :frowning_man:**
 
 In this screen you can see the amount of trolls and likes you have (note that from a certain number of trolls you will not be able to tweet anymore).
