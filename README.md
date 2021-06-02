@@ -40,12 +40,17 @@ Just do not be a jerk! Bring "Like" or "Troll" to the people who deserve it.
 
 >An example of a tweet
 
-**Tweet button**
+**Tweet button :baby_chick:**
 
 There are four buttons on the tweet page - be careful not to click on them for no reason - it will send a tweet.
 
-Button with a hat icon - report the manager here.
-Button with a siren icon - report that the rabbi is coming to the rooms.
-Button with food icon - report that food has arrived (you can also rate the food and describe the food)
-Button with check list icon - report rollcall.
+- Button with a hat icon - report the manager here.
+- Button with a siren icon - report that the rabbi is coming to the rooms.
+- Button with food icon - report that food has arrived (you can also rate the food and describe the food)
+- Button with check list icon - report rollcall.
+
+<br></br>
+<img src="https://github.com/itsikshteinberger/the-underground/blob/master/FinalProject/app/src/main/res/drawable/7f56fd4a-b60c-4493-9855-c85180d7f021.jpg" alt="alt text" width="300" height="390">
+
+>Tweets buttons
 
