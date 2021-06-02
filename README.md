@@ -25,4 +25,14 @@ In order to run the application on your machine, make sure that you have "Androi
 
 Okay, now we've got to the fun part.
 
-If you are staying in our boarding school as of 2021 - you must enter your ID number and choose a password - remember the password! It will be used by you next time.
+If you are staying in our dorm as of 2021 - you must enter your ID number and choose a password - remember the password! It will be used by you next time.
+
+In the bottom navigation bar you are about to see three icons and I am going to explain to you about them all:
+
+![](https://github.com/itsikshteinberger/the-underground/blob/master/FinalProject/app/src/main/res/drawable/1b1ac2ef-7cbc-4429-970a-29c5ab338ccf.jpg)
+
+**The home button :house_with_garden:**
+
+On the home page you can keep up to date with your friends' tweets and even give them a "Like" or "Troll" depending on the credibility of the tweet.
+Just do not be a jerk! Bring "Like" or "Troll" to the people who deserve it.
+
