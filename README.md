@@ -54,3 +54,8 @@ There are four buttons on the tweet page - be careful not to click on them for n
 
 >Tweets buttons
 
+**Account button :frowning_man:**
+
+In this screen you can see the amount of trolls and likes you have (note that from a certain number of trolls you will not be able to tweet anymore).
+
+**Note:bangbang:** Each new tweet will alert you with sound! In order to mute the alerts you will need to do this manually from this screen.
