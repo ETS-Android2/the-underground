@@ -7,7 +7,7 @@ In our dorm, every student must know four things (every day all day) if he wants
 - What food is there and how disgusting it is:vomiting_face:.
 - Is the rabbi now going to dorm:warning:.
 - Is the manager downstairs:rotating_light:.
-- Is there a rollcall now:heavy_check_mark:.
+- Is there a rollcalll now:heavy_check_mark:.
 
 With the help of the app we developed each student will be able to tweet on his own and watch other tweets pertaining to the above list:sunglasses:.
 
