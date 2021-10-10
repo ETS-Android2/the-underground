@@ -4,12 +4,12 @@
 
 In our dorm, every student must know four things (every day all day) if he wants to survive:
 
-- What food is there and how disgusting it is:vomiting_face:.
-- Is the rabbi now going to dorm:warning:.
+- What food ithere is and how disgusting it is:vomiting_face:.
+- Is the rabbi coming to the dorm:warning:.
 - Is the manager downstairs:rotating_light:.
 - Is there a rollcalll now:heavy_check_mark:.
 
-With the help of the app we developed each student will be able to tweet on his own and watch other tweets pertaining to the above list:sunglasses:.
+With the help of the app we developed, each student will be able to tweet on his own and watch other tweets pertaining to the above list:sunglasses:.
 
 You can also report a wrong tweet :poop: or check "Like" :thumbsup:.
 
@@ -34,7 +34,7 @@ In the bottom navigation bar you are about to see three icons and I am going to 
 **The home button :house_with_garden:**
 
 On the home page you can be updated with your friends' tweets and even give them a "Like" or "Troll" depending on the credibility of the tweet.
-Just do not be a jerk! Bring "Like" or "Troll" to the people who deserve it.
+Don't be a jerk! Give a "Like" or "Troll" to the people who deserve it.
 
 ![](https://github.com/itsikshteinberger/the-underground/blob/master/FinalProject/app/src/main/res/drawable/863898d3-35f2-45e4-bed5-bc3726529c55.jpg)
 
@@ -44,7 +44,7 @@ Just do not be a jerk! Bring "Like" or "Troll" to the people who deserve it.
 
 There are four buttons on the tweet page - be careful not to click on them for no reason - it will send a tweet.
 
-- Button with a hat icon - report the manager here.
+- Button with a hat icon - report the manager is here.
 - Button with a siren icon - report that the rabbi is coming to the rooms.
 - Button with food icon - report that food has arrived (you can also rate the food and describe the food)
 - Button with check list icon - report rollcall.
@@ -69,7 +69,7 @@ In this screen you can see the amount of trolls and likes you have (note that fr
 
 Now that we are done, you are ready to use the app. <br></br>
 And remember: suffering together, it's better.  <br></br>
-The app participated in the BMDC 2021 hackathon.
+This app participated in the BMDC 2021 hackathon.
 
 
 <img src="https://github.com/itsikshteinberger/the-underground/blob/master/FinalProject/app/src/main/res/drawable/main.png" alt="alt text" width="300" height="300">
