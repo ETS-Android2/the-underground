@@ -69,7 +69,7 @@ In this screen you can see the amount of trolls and likes you have (note that fr
 
 Now that we are done, you are ready to use the app. <br></br>
 And remember: suffering together, it's better.  <br></br>
-This app participated in the BMDC 2021 hackathon.
+This app participated in the BMDC 2021 hackathon :2nd_place_medal:.
 
 
 <img src="https://github.com/itsikshteinberger/the-underground/blob/master/FinalProject/app/src/main/res/drawable/main.png" alt="alt text" width="300" height="300">
